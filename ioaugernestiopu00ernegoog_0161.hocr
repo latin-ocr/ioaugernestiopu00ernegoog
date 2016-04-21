@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ioaugernestiopu00ernegoog_0161.png"; bbox 0 0 2949 5023; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 517 334 2325 437">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 517 334 2325 437">
+     <span class='ocr_line' id='line_1_1' title="bbox 517 334 2325 437; baseline 0.008 -48"><span class='ocrx_word' id='word_1_1' title='bbox 517 340 613 417; x_wconf 56' lang='lat'><strong>231·</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 652 343 1089 395; x_wconf 60' lang='lat' dir='ltr'><strong>’Aac-vnvm</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1131 346 1182 393; x_wconf 77' lang='grc' dir='ltr'><strong>ι.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1220 345 1288 392; x_wconf 79' lang='lat' dir='ltr'><strong>c.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1334 345 1427 394; x_wconf 73' lang='grc' dir='ltr'><strong>υτ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1462 340 1731 405; x_wconf 60' lang='lat' dir='ltr'><strong>consa</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1759 344 2011 410; x_wconf 60' lang='lat' dir='ltr'><strong>uena</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2172 334 2325 437; x_wconf 94' lang='grc' dir='ltr'><strong>μς</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

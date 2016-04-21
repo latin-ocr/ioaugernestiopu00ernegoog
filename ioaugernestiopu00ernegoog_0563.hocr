@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ioaugernestiopu00ernegoog_0563.png"; bbox 0 0 2949 5023; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 766 1246 1915 1476">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 766 1246 1915 1476">
+     <span class='ocr_line' id='line_1_1' title="bbox 1287 1246 1410 1318; baseline -0.033 0"><span class='ocrx_word' id='word_1_1' title='bbox 1287 1246 1410 1318; x_wconf 88' lang='lat' dir='ltr'>DE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 766 1398 1915 1476; baseline -0.007 0"><span class='ocrx_word' id='word_1_2' title='bbox 766 1404 1085 1476; x_wconf 88' lang='lat' dir='ltr'>METV</span> <span class='ocrx_word' id='word_1_3' title='bbox 1175 1398 1915 1472; x_wconf 81' lang='lat' dir='ltr'>SPECTRORVM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1214 1598 1464 1669">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1214 1598 1464 1669">
+     <span class='ocr_line' id='line_1_3' title="bbox 1214 1598 1464 1669; baseline -0.016 1"><span class='ocrx_word' id='word_1_4' title='bbox 1214 1598 1464 1669; x_wconf 77' lang='lat' dir='ltr'>PER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 215 1760 2555 2002">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 215 1760 2555 2002">
+     <span class='ocr_line' id='line_1_4' title="bbox 215 1760 2555 2002; baseline -0.007 -91"><span class='ocrx_word' id='word_1_5' title='bbox 215 1760 2555 2002; x_wconf 27' lang='lat' dir='ltr'>&#39;L‘VTHERVMs</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 769 2015 1685 2166">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 769 2015 1685 2166">
+     <span class='ocr_line' id='line_1_5' title="bbox 769 2015 1685 2166; baseline -0.011 -54"><span class='ocrx_word' id='word_1_6' title='bbox 769 2015 1685 2166; x_wconf 28' lang='lat' dir='ltr'>&#39;‘szLATo</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

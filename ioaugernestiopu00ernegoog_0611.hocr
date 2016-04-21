@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ioaugernestiopu00ernegoog_0611.png"; bbox 0 0 2949 5023; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1254 1497 1398 1573">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1254 1497 1398 1573">
+     <span class='ocr_line' id='line_1_1' title="bbox 1254 1497 1398 1573; baseline -0.014 0"><span class='ocrx_word' id='word_1_1' title='bbox 1254 1497 1398 1573; x_wconf 80' lang='lat' dir='ltr'>DE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 357 1694 2258 1861">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 357 1694 2258 1861">
+     <span class='ocr_line' id='line_1_2' title="bbox 357 1694 2258 1861; baseline 0.003 -46"><span class='ocrx_word' id='word_1_2' title='bbox 357 1700 680 1839; x_wconf 80' lang='lat' dir='ltr'><strong>voc,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 743 1694 1539 1814; x_wconf 74' lang='lat' dir='ltr'>KATAATMA</span> <span class='ocrx_word' id='word_1_4' title='bbox 1602 1695 1789 1861; x_wconf 78' lang='grc' dir='ltr'>ΕΤ</span> <span class='ocrx_word' id='word_1_5' title='bbox 1851 1698 2258 1822; x_wconf 73' lang='grc' dir='ltr'><strong>ΑΥΛΗ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 872 1944 1741 2040">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 872 1944 1741 2040">
+     <span class='ocr_line' id='line_1_3' title="bbox 872 1944 1741 2040; baseline -0.005 -20"><span class='ocrx_word' id='word_1_6' title='bbox 872 1944 1032 2020; x_wconf 73' lang='lat' dir='ltr'>&#39;AD</span> <span class='ocrx_word' id='word_1_7' title='bbox 1130 1944 1360 2021; x_wconf 71' lang='grc' dir='ltr'>ινα</span> <span class='ocrx_word' id='word_1_8' title='bbox 1457 1944 1575 2033; x_wconf 86' lang='lat'>11,</span> <span class='ocrx_word' id='word_1_9' title='bbox 1670 1956 1741 2040; x_wconf 86' lang='lat'>7·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 357 4132 1667 4244">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 357 4132 1667 4244">
+     <span class='ocr_line' id='line_1_4' title="bbox 357 4132 1667 4244; baseline -0.011 -23"><span class='ocrx_word' id='word_1_10' title='bbox 357 4143 616 4244; x_wconf 55' lang='lat' dir='ltr'><em>Ernesti</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 657 4141 884 4242; x_wconf 68' lang='lat' dir='ltr'><em>opust.</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 912 4139 1124 4219; x_wconf 67' lang='lat' dir='ltr'><em>nunt.</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1544 4132 1596 4206; x_wconf 68' lang='grc' dir='ltr'><strong><em>ε</em></strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1618 4153 1667 4234; x_wconf 74' lang='lat' dir='ltr'>p</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ioaugernestiopu00ernegoog_0511.png"; bbox 0 0 2949 5023; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1247 1473 1370 1535">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1247 1473 1370 1535">
+     <span class='ocr_line' id='line_1_1' title="bbox 1247 1473 1370 1535; baseline -0.008 0"><span class='ocrx_word' id='word_1_1' title='bbox 1247 1473 1370 1535; x_wconf 75' lang='lat' dir='ltr'><strong>DE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 247 1654 2485 1997">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 247 1654 2485 1997">
+     <span class='ocr_line' id='line_1_2' title="bbox 247 1654 2348 1865; baseline -0 -69"><span class='ocrx_word' id='word_1_2' title='bbox 247 1656 675 1859; x_wconf 81' lang='lat' dir='ltr'><strong>AV</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 853 1654 982 1789; x_wconf 92' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1158 1656 2348 1865; x_wconf 15' lang='lat' dir='ltr'>R-1T10A</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 576 1874 2485 1997; baseline 0.001 -29"><span class='ocrx_word' id='word_1_5' title='bbox 576 1874 2127 1997; x_wconf 75' lang='lat' dir='ltr'><strong>EchEslAST1cA·</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2474 1876 2485 1885; x_wconf 73' lang='grc'><em>’</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1219 2085 1376 2156">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1219 2085 1376 2156">
+     <span class='ocr_line' id='line_1_4' title="bbox 1219 2085 1376 2156; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 1219 2085 1376 2156; x_wconf 87' lang='grc' dir='ltr'><strong>ΕΤ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 395 2196 2176 2557">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 395 2196 2176 2557">
+     <span class='ocr_line' id='line_1_5' title="bbox 395 2196 2176 2343; baseline -0.002 -28"><span class='ocrx_word' id='word_1_8' title='bbox 395 2196 1027 2343; x_wconf 56' lang='grc' dir='ltr'><strong>εΑιύςΑΝἰ</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1086 2239 2176 2315; x_wconf 69' lang='lat' dir='ltr'>Anv.AvAR1·1-1AM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1010 2393 1583 2460; baseline 0.005 -5"><span class='ocrx_word' id='word_1_10' title='bbox 1010 2393 1583 2460; x_wconf 75' lang='lat' dir='ltr'>LIBELLO</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 1010 2506 1460 2557; baseline -0.004 0"><span class='ocrx_word' id='word_1_11' title='bbox 1010 2523 1104 2557; x_wconf 58' lang='lat' dir='ltr'><strong>fra.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1167 2506 1236 2555; x_wconf 56' lang='grc'><strong>,1,</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1260 2525 1325 2555; x_wconf 68' lang='lat' dir='ltr'><strong>rm</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1397 2519 1460 2556; x_wconf 58' lang='lat' dir='ltr'><em>s</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
